@@ -14,4 +14,4 @@ The implementation uses alpha-divergence minimization to estimate the predictive
 ### Inference Performance
 
 
-<img src="images/Figure.png" width="430" height="270"/>
+<img src="Figure.png" width="430" height="270"/>
